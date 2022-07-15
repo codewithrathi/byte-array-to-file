@@ -4,9 +4,9 @@ Input a file using byte array, store it on local system.
 
 ## SnapShots
 ## 1
-![web](https://github.com/shinchancode/byte-array-to-file/blob/master/Imgs/1.png)
+![web](https://github.com/codewithrathi/byte-array-to-file/blob/main/Imgs/1.png)
 ## 2
-![web](https://github.com/shinchancode/byte-array-to-file/blob/master/Imgs/2.png)
+![web](https://github.com/codewithrathi/byte-array-to-file/blob/main/Imgs/2.png)
 
 ## RESOURCES
 # Core JAVA, Collections
